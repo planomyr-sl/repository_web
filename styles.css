@@ -1,0 +1,6 @@
+.logo{height:45px;width:auto;}
+.logo-generalitat{max-height:90px;}
+.hero{background:linear-gradient(120deg,#6d0b0b,#b32b2b);min-height:60vh;}
+section{scroll-margin-top:5rem;}
+img{object-fit:cover;}
+.rounded-4{border-radius:1rem!important;}
